@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wsixsix.github.io</id>
     <title>SixSix的自留地</title>
-    <updated>2021-02-17T17:43:52.353Z</updated>
+    <updated>2021-02-17T17:56:50.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wsixsix.github.io"/>
     <link rel="self" href="https://wsixsix.github.io/atom.xml"/>
@@ -10,6 +10,29 @@
     <logo>https://wsixsix.github.io/images/avatar.png</logo>
     <icon>https://wsixsix.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, SixSix的自留地</rights>
+    <entry>
+        <title type="html"><![CDATA[项目里遇到的可以聊的点]]></title>
+        <id>https://wsixsix.github.io/post/xiang-mu-li-yu-dao-de-nan-dian/</id>
+        <link href="https://wsixsix.github.io/post/xiang-mu-li-yu-dao-de-nan-dian/">
+        </link>
+        <updated>2021-02-17T17:46:12.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Webview内存泄漏</li>
+<li>上传图片问题</li>
+<li>登录方式的优化问题</li>
+<li>混合开发时候，登录态的保持 Cookie</li>
+<li>多级树状项目单元根目录更多的情况下 数据展示问题，数据模型的定义</li>
+<li>业务流程反复修改</li>
+<li>使用kotlin初期，遇到的问题</li>
+<li>使用flutter混合开发遇到的问题</li>
+<li>项目Activity任务栈的管理</li>
+<li>项目迭代，代码管理的问题</li>
+<li>团队项目如何review的问题</li>
+<li>架构初期设计的问题</li>
+<li>大版本迭代遇到的系统设计问题</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Android面试准备]]></title>
         <id>https://wsixsix.github.io/post/hello-gridea/</id>
