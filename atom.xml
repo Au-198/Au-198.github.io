@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wsixsix.github.io</id>
     <title>SixSix的自留地</title>
-    <updated>2021-02-19T15:52:59.862Z</updated>
+    <updated>2021-02-19T15:55:56.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wsixsix.github.io"/>
     <link rel="self" href="https://wsixsix.github.io/atom.xml"/>
@@ -17,18 +17,12 @@
         </link>
         <updated>2021-02-19T15:42:57.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="第一章-对象的概念">第一章 对象的概念</h1>
-<h2 id="问题">问题</h2>
-<ul>
-<li>对象是什么？</li>
-</ul>
 ]]></summary>
         <content type="html"><![CDATA[<h1 id="第一章-对象的概念">第一章 对象的概念</h1>
+<!-- more -->
 <h2 id="问题">问题</h2>
 <ul>
 <li>对象是什么？</li>
-</ul>
-<!-- more -->
-<ul>
 <li>怎么使用对象？</li>
 <li>在什么地方使用对象？为什么使用它？</li>
 </ul>
@@ -57,9 +51,11 @@
         <content type="html"><![CDATA[<h1 id="本书电子版">本书电子版</h1>
 <p><a href="https://lingcoder.github.io/OnJava8/">On Java8 中文版</a></p>
 <!-- more -->
-<h1 id="阅读目的">阅读目的？</h1>
-<p>Java知识的查漏补缺</p>
-<h1 id="那我如何阅读呢">那我如何阅读呢？</h1>
+<h1 id="阅读目的">阅读目的</h1>
+<ul>
+<li>Java知识的查漏补缺</li>
+</ul>
+<h1 id="阅读计划">阅读计划</h1>
 <h2 id="根据本书目录我的规划如下">根据本书目录，我的规划如下</h2>
 <ul>
 <li>第一阶段：1-5章，12，18，21章</li>
