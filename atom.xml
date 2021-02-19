@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wsixsix.github.io</id>
     <title>SixSix的自留地</title>
-    <updated>2021-02-19T15:56:57.195Z</updated>
+    <updated>2021-02-19T15:58:45.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wsixsix.github.io"/>
     <link rel="self" href="https://wsixsix.github.io/atom.xml"/>
@@ -45,11 +45,9 @@
         <link href="https://wsixsix.github.io/post/lesslessjava8-bian-cheng-si-xiang-greatergreater-yue-du-sui-ji/">
         </link>
         <updated>2021-02-19T14:19:00.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="本书电子版">本书电子版</h1>
-<p><a href="https://lingcoder.github.io/OnJava8/">On Java8 中文版</a></p>
+        <summary type="html"><![CDATA[<h1 id="on-java8-中文版"><a href="https://lingcoder.github.io/OnJava8/">On Java8 中文版</a></h1>
 ]]></summary>
-        <content type="html"><![CDATA[<h1 id="本书电子版">本书电子版</h1>
-<p><a href="https://lingcoder.github.io/OnJava8/">On Java8 中文版</a></p>
+        <content type="html"><![CDATA[<h1 id="on-java8-中文版"><a href="https://lingcoder.github.io/OnJava8/">On Java8 中文版</a></h1>
 <!-- more -->
 <h1 id="阅读目的">阅读目的</h1>
 <ul>
