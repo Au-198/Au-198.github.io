@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wsixsix.github.io</id>
     <title>SixSix的自留地</title>
-    <updated>2021-02-17T18:00:29.564Z</updated>
+    <updated>2021-02-19T14:05:20.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wsixsix.github.io"/>
     <link rel="self" href="https://wsixsix.github.io/atom.xml"/>
@@ -50,7 +50,8 @@
 <h1 id="android相关">Android相关</h1>
 <p><a href="https://blog.csdn.net/coder_pig/article/details/106197731">换个姿势，带着问题看Handler</a></p>
 <h1 id="java相关">Java相关</h1>
-<p><a href="https://github.com/CyC2018/CS-Notes">Java笔记</a></p>
+<p><a href="https://github.com/CyC2018/CS-Notes">Java笔记</a><br>
+<a href="https://lingcoder.github.io/OnJava8">书籍 —— Java编程思想</a></p>
 <h1 id="设计模式">设计模式</h1>
 <p><a href="https://github.com/CyC2018/CS-Notes">系统设计</a></p>
 <h1 id="网络相关">网络相关</h1>
