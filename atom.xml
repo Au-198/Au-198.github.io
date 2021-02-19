@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wsixsix.github.io</id>
     <title>SixSix的自留地</title>
-    <updated>2021-02-19T14:05:20.741Z</updated>
+    <updated>2021-02-19T14:40:36.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wsixsix.github.io"/>
     <link rel="self" href="https://wsixsix.github.io/atom.xml"/>
@@ -10,6 +10,38 @@
     <logo>https://wsixsix.github.io/images/avatar.png</logo>
     <icon>https://wsixsix.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, SixSix的自留地</rights>
+    <entry>
+        <title type="html"><![CDATA[《Java8编程思想》阅读随记]]></title>
+        <id>https://wsixsix.github.io/post/lesslessjava8-bian-cheng-si-xiang-greatergreater-yue-du-sui-ji/</id>
+        <link href="https://wsixsix.github.io/post/lesslessjava8-bian-cheng-si-xiang-greatergreater-yue-du-sui-ji/">
+        </link>
+        <updated>2021-02-19T14:19:00.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="本书电子版">本书电子版</h1>
+<p>https://lingcoder.github.io/OnJava8/</p>
+<h1 id="阅读目的">阅读目的？</h1>
+<p>Java知识的查漏补缺</p>
+<h1 id="那我如何阅读呢">那我如何阅读呢？</h1>
+<p>根据本书目录，我的规划如下</p>
+<ul>
+<li>第一阶段：1-5章，12，18，21章</li>
+<li>第二阶段：6-11章，15，16，19，20章</li>
+<li>第三阶段：13-14章，22-25章</li>
+</ul>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="本书电子版">本书电子版</h1>
+<p>https://lingcoder.github.io/OnJava8/</p>
+<h1 id="阅读目的">阅读目的？</h1>
+<p>Java知识的查漏补缺</p>
+<h1 id="那我如何阅读呢">那我如何阅读呢？</h1>
+<p>根据本书目录，我的规划如下</p>
+<ul>
+<li>第一阶段：1-5章，12，18，21章</li>
+<li>第二阶段：6-11章，15，16，19，20章</li>
+<li>第三阶段：13-14章，22-25章</li>
+</ul>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[项目里遇到过的难点]]></title>
         <id>https://wsixsix.github.io/post/xiang-mu-li-yu-dao-de-nan-dian/</id>
@@ -48,7 +80,8 @@
 <a href="https://github.com/labuladong/fucking-algorithm">labuladong 的算法小抄</a></p>
 <!-- more -->
 <h1 id="android相关">Android相关</h1>
-<p><a href="https://blog.csdn.net/coder_pig/article/details/106197731">换个姿势，带着问题看Handler</a></p>
+<p><a href="https://juejin.cn/post/6844904155153170439">写给正在求职的 Androider</a><br>
+<a href="https://blog.csdn.net/coder_pig/article/details/106197731">换个姿势，带着问题看Handler</a></p>
 <h1 id="java相关">Java相关</h1>
 <p><a href="https://github.com/CyC2018/CS-Notes">Java笔记</a><br>
 <a href="https://lingcoder.github.io/OnJava8">书籍 —— Java编程思想</a></p>
